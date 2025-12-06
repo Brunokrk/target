@@ -262,29 +262,29 @@ O aplicativo utiliza um gradiente verde/azul em várias telas, definido em `AppT
 ## 📸 Capturas de Tela
 
 ### Tela de Login
-![Tela de Login](Imagens_App/login.png)
+<img src="Imagens_App/login.png" alt="Tela de Login" width="400"/>
 
 ### Lista de Informações
 
 #### Lista Vazia
-![Lista Vazia](Imagens_App/Lista_vazia.png)
+<img src="Imagens_App/Lista_vazia.png" alt="Lista Vazia" width="400"/>
 
 #### Lista com Informações
-![Lista Cheia](Imagens_App/Lista_cheia.png)
+<img src="Imagens_App/Lista_cheia.png" alt="Lista Cheia" width="400"/>
 
 ### Adicionando Informação
-![Adicionando Informação](Imagens_App/Adicionando_Info.png)
+<img src="Imagens_App/Adicionando_Info.png" alt="Adicionando Informação" width="400"/>
 
 ### Tela de Detalhes
 
 #### Detalhes Vazio
-![Detalhes Vazio](Imagens_App/Detalhes_vazio.png)
+<img src="Imagens_App/Detalhes_vazio.png" alt="Detalhes Vazio" width="400"/>
 
 #### Detalhes com Estatísticas
-![Detalhes](Imagens_App/Detalhes.png)
+<img src="Imagens_App/Detalhes.png" alt="Detalhes" width="400"/>
 
 ### Menu de Logout
-![Menu de Logout](Imagens_App/Logout.png)
+<img src="Imagens_App/Logout.png" alt="Menu de Logout" width="400"/>
 
 ### Vídeo Demonstrativo
 Para ver o aplicativo em ação, confira o vídeo: [Video_utilizando.mov](Imagens_App/Video_utilizando.mov)

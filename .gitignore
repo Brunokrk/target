@@ -67,3 +67,10 @@ coverage/
 *.tmp
 *.temp
 *~
+
+# Large media files
+*.mov
+*.mp4
+*.avi
+*.mkv
+Imagens_App/Video_utilizando.mov
